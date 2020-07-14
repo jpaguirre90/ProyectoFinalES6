@@ -1,0 +1,68 @@
+img{
+    width: 100%;
+    position: absolute;
+}
+h3{
+    position: relative;
+    color: beige;
+}
+#imagen{
+    width: 100%;
+}
+#nombre{
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.tarjeta{
+    background-color: #032E44;
+    width: 100%;
+    border-radius: 10px;
+    margin-top: 12%;
+    
+}
+
+#logocamino{
+    width: 100%;
+}
+
+#ciudad_origen, #ciudad_destino{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+#selector-vehiculos{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+#boton{
+    margin-top: 2%;
+    margin-bottom: 10%;
+    background-color: #115772;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: bold;
+    color:white;
+}
+
+#ciudadselector{
+    font-weight: bold;
+}
+
+#auto-selector{
+    font-weight: bold;
+}
+ #boton2{
+    background-color: #115772;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: bold;
+    color:white;
+ }
+ 
+.modal-body{
+    background-color: #115772;
+}
+.modal-body{
+    background-color: #115772;
+}
